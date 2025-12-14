@@ -1,0 +1,5 @@
+{
+  "name": "Compacter Cloud",
+  "description": "A scalable knowledge extraction system using a Cascade Architecture (Flash -> Pro) to distill durable knowledge from unstructured text.",
+  "requestFramePermissions": []
+}
